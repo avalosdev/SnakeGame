@@ -1,9 +1,9 @@
 # Snake Game - Jogo da Cobra
 
-<h4> Tecnologias usadas </h4>
- * HTML
- * CSS
- * JS
+<h4> Tecnologias usadas </h4> 
+*  HTML
+*  CSS
+*  JS
 
 <br>
   Para Visualizar o Projeto. <a href="https://avalosdev.github.io/SnakeGame/">Clique Aqui</a><br>
