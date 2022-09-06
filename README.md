@@ -1,5 +1,4 @@
-# Snake Game
-<h2>Jogo da Cobra</h2>
+# Snake Game - Jogo da Cobra
 
 <h4> Tecnologias usadas </h4>
 <p> HTML, CSS e JS </p>
